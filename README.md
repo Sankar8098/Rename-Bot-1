@@ -15,7 +15,8 @@
   - `TOKEN` - Get it from BotFather.
   - `ADMIN` - Your ID
   - `STRING` - Only Need for 4gb Files.
-  - `DB_URL` - Mongodb database here
+  - `DB_URL` - Enter Mongodb database URL
+  - `DB_NAME` - Enter Mongodb database URL Name
   - `CHANNEL` - Force subscribe channel username without `@`
   - `LOG_CHANNEL` - Log Channel ID.
 
